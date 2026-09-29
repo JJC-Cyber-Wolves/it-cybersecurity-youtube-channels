@@ -1,7 +1,7 @@
 # IT-cybersecurity-YouTube-channels
 The following are the best YouTube channels on IT and cybersecurity topics: 
 
-**General IT Topics**
+**General IT Topics**  
 [ThioJoe](https://www.youtube.com/ThioJoe): Overall different topics in IT is covered.  
   
 **Certifications & Foundations**  
