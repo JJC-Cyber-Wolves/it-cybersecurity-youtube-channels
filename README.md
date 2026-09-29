@@ -1,5 +1,8 @@
 # IT-cybersecurity-YouTube-channels
-The following are the best YouTube channels on IT and cybersecurity topics:  
+The following are the best YouTube channels on IT and cybersecurity topics: 
+
+**General IT Topics**
+[ThioJoe](https://www.youtube.com/ThioJoe): Overall different topics in IT is covered.  
   
 **Certifications & Foundations**  
 [Professor Messer](https://www.youtube.com/professormesser): Professor Messer provides structured, free training courses for CompTIA certifications like A+, Network+, and Security+.  
